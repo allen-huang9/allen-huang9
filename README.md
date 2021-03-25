@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<!-- ### About me -->
+
+### Skills
+ - Java
+ - JavaScript
+ - PostgreSQL
+ - HTML
+ - CSS
+ - React
+
+<!-- ### Contact me -->
+
 <!--
 **allen-huang9/allen-huang9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
