@@ -9,8 +9,9 @@
  - CSS
  - React
 
-### Projects
-Money Bluff, a web application to help track expenses [Source Code](https://github.com/allen-huang9/final-project)
+### 🏗️ Projects
+Money Bluff, a web application to help track expenses [Source code](https://github.com/allen-huang9/final-project)
+FGOverseer, a web application to help players manage their account [Source code](https://github.com/allen-huang9/ajax-project)
 
 ### 📫 Contact me
 email: ahuang951@gmail.com <br/>
