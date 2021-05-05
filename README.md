@@ -17,7 +17,8 @@ My name is Allen, as a child, I was taught that all problems had more than one a
 
 ### 📫 Contact me
 email: ahuang951@gmail.com <br/>
-linkedin: https://www.linkedin.com/in/allen-huang
+linkedin: https://www.linkedin.com/in/allen-huang <br/>
+[Resume here](https://drive.google.com/file/d/1hf_taecR1Ov_R1DhkIPSDFAVSjcdH-0x/view?usp=sharing)
 <!--
 **allen-huang9/allen-huang9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
